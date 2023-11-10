@@ -3,9 +3,9 @@ package homework25.task01;
 public class Human {
 
 
-    String name;
-    int age;
-    String occupation;
+   public String name;
+   public int age;
+    public String occupation;
 
 
     public void introduce() {

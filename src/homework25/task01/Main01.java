@@ -1,8 +1,6 @@
 package homework25.task01;
 
-import homework25.task01.Human;
-
-public class Main {
+public class Main01 {
 
   public static void main(String[] args) {
     Human nastya = new Human();
